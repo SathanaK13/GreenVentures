@@ -1,0 +1,75 @@
+.bg-one{
+    background-image:url("bg-one.jpg");
+    background-size:cover;
+    height:100vh;
+    color:white;
+}
+.car-style{
+    height:100vh;
+    background-size: cover;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    padding:45px;
+}
+.container-boxes{
+    height:340px;
+    width:340px;
+    background-color:#deaf5d;
+    border-radius:14px;
+    color:black;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    line-height:1.5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container { 
+    display: flex; 
+    justify-content: center; 
+}
+ .row { 
+     display: flex; 
+    } 
+.btn-all{
+    height:40px;
+    width:130px;
+    color:white;
+    background-color: darkgreen;
+    border:0px;
+    border-radius: 6px;
+    font-size:16px;
+}
+.form-container{
+    height:450px;
+    width:450px;
+    background-color:white;
+    padding:20px;
+    border-radius: 13px;
+    margin-top:23px;
+}
+.form-ex{
+    background-image: url("bg-one.jpg");
+    height:90vh;
+    background-size: cover;
+}
+.sub-btn{
+    background-color:#deaf5d;
+    border-radius:6px;
+    border:0px;
+    height:40px;
+    width:130px;
+    margin:20px;
+}
+
+.foot{
+    background-color: #deaf5d;
+    height:10vh;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.name_span{
+    color:#4a724c;
+}
